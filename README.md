@@ -8,6 +8,8 @@
 ### S01E09-Q&A
 ### S01E10-Introduction
 ### S01E11-Evaluating Expressions
+### S01E13-Parsing Techniques
+
 
 进度比较赶，一天一集的样子，后面会把翻译校验和优化，敬请见谅。
 

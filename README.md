@@ -10,7 +10,7 @@
 ### S01E11-Evaluating Expressions
 ### S01E13-Parsing Techniques
 
-
+pending
 进度比较赶，一天一集的样子，后面会把翻译校验和优化，敬请见谅。
 
 持续更新敬请关注。

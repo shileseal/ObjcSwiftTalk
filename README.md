@@ -11,6 +11,7 @@
 ### S01E13-Parsing Techniques
 ### S01E15-Building Parser Combinators (Part 1)
 ### S01E17-Architecture
+### S01E19-From Runtime Programming to Functions
 pending
 进度比较赶，一天一集的样子，后面会把翻译校验和优化，敬请见谅。
 
